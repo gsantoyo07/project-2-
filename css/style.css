@@ -1,4 +1,8 @@
-
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
  /* body- source :https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_justify-content_center*/
 body {
   display: flex;
